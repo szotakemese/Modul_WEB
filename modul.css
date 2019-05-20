@@ -1,0 +1,73 @@
+.container{
+    background: rgb(50, 58, 66);
+    width: 700px;
+    height: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+.btn-group{
+    width: 600px;
+    height: 50px;
+}
+.btn-group a:link{
+    color: aliceblue;
+}
+.btn-group a:visited{
+    color: aliceblue;
+}
+#btn1{
+    background: rgb(49, 174, 134);
+}
+#btn2{
+    color: aliceblue;
+}
+#text{
+    color: aliceblue;
+    height: 100px;
+    padding: 30px;
+}
+.first_row{
+    height: 60px;
+}
+#first_name{
+    background: rgb(0, 0, 0, 0);
+    border-color: aquamarine;
+    width: 280px;
+    height: 40px;
+    float: left;
+}
+#last_name{
+    background: rgb(0, 0, 0, 0);
+    border-color: aquamarine;
+    width: 280px;
+    height: 40px;
+    float: right;
+}
+.e-mail{
+    height: 60px;
+}
+#e-mail{
+    background: rgb(0, 0, 0, 0);
+    border-color: aquamarine;
+    width: 600px;
+    height: 40px;
+}
+.password{
+    height: 60px;
+}
+#password{
+    background: rgb(0, 0, 0, 0);
+    border-color: aquamarine;
+    width: 600px;
+    height: 40px;
+}
+#big_btn{
+    background: rgb(49, 174, 134);
+    height: 50px;
+    width: 600px;
+    border-style: none;
+    color: aliceblue;
+    font-size: 30px;
+}
